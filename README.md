@@ -1,8 +1,4 @@
-Name: Maria Andreea Chirnogeanu
-Group: 333CB 
-
-# Assignment 1 ASC - Le Stats Sportifs
-#### Application for http requests with multithreaded implementation
+# Le Stats Sportifs - App for processing sports related questions
 
 Organisation
 -
